@@ -1,6 +1,6 @@
 # dados
 
-A new Flutter project.
+Projeto de dados aleatórios em flutter.
 
 ## Getting Started
 
